@@ -8,21 +8,21 @@ To represent the results use paraview.
 ### Original problem
 
 <p align="center">
-  <img src="https://github.com/planelles20/?raw=true" alt="original heat equation"/>
+  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heat/heatEq.gif?raw=true" alt="original heat equation"/>
 </p>
 
 Where:
 
 <p align="center">
-  <img src="https://github.com/planelles20/?raw=true" alt="constant data"/>
+  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heat/data.gif?raw=true" alt="constant data"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/planelles20/?raw=true" alt="Dirichlet boundaries"/>
+  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heat/dirichletBoundaries.gif?raw=true" alt="Dirichlet boundaries"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/planelles20/?raw=true" alt="init condition"/>
+  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heat/initCondition.gif?raw=true" alt="init condition"/>
 </p>
 
 
@@ -31,5 +31,5 @@ Where:
 ### Result
 
 <p align="center">
-  <img src="https://github.com/planelles20/?raw=true" alt="result heat eq"/>
+  <img src="https://github.com/planelles20/fenics-examples/blob/master/result/heatDirichlet/heatDirichlet.gif?raw=true" alt="result heat eq"/>
 </p>
