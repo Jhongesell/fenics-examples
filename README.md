@@ -11,6 +11,10 @@ To represent the results use paraview.
   <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heat/heatEq.gif?raw=true" alt="original heat equation"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heat/domain.gif?raw=true" alt="original heat equation"/>
+</p>
+
 Where:
 
 <p align="center">
