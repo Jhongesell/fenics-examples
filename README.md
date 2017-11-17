@@ -1,5 +1,6 @@
 # fenics-examples
-Solving some examples of partial differential equations (PDE) using fenics.
+Solving some examples of partial differential equations (PDE) using
+[fenics](https://fenicsproject.org/).
 
 To represent the results use paraview.
 
