@@ -33,25 +33,32 @@ Where:
 ### Weak form or variational form
 
 <p align="center">
-  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heat/variationalForm.gif?raw=true" alt="init condition"/>
+  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heat/variationalForm.gif?raw=true" alt="variational Form"/>
 </p>
 
 Where:
 
 <p align="center">
-  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heat/variationalTerms.gif?raw=true" alt="init condition"/>
+  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heat/variationalTerms.gif?raw=true" alt="variational Terms"/>
 </p>
 
 Alternative form:
 <p align="center">
-  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heat/alternativaVariational.gif?raw=true" alt="init condition"/>
+  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heat/alternativaVariational.gif?raw=true" alt="alternativa Variational"/>
 </p>
 
 Where:
 
 <p align="center">
-  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heat/alternativaVariationalF.gif?raw=true" alt="init condition"/>
+  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heat/alternativaVariationalF.gif?raw=true" alt="F equation"/>
 </p>
+
+Init Conditions:
+
+<p align="center">
+  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heat/initConditionVariational.gif?raw=true" alt="init Condition Variational"/>
+</p>
+
 
 ### Result
 
