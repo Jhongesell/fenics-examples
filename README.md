@@ -32,6 +32,27 @@ Where:
 
 ### Weak form or variational form
 
+<p align="center">
+  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heat/variationalForm.gif?raw=true" alt="init condition"/>
+</p>
+
+Where:
+
+<p align="center">
+  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heat/variationalTerms.gif?raw=true" alt="init condition"/>
+</p>
+
+Alternative form:
+<p align="center">
+  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heat/alternativaVariational.gif?raw=true" alt="init condition"/>
+</p>
+
+Where:
+
+<p align="center">
+  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heat/alternativaVariationalF.gif?raw=true" alt="init condition"/>
+</p>
+
 ### Result
 
 <p align="center">
