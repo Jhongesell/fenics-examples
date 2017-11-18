@@ -46,5 +46,5 @@ Alternative form:
 ## Result
 
 <p align="center">
-  <img src="https://github.com/planelles20/fenics-examples/blob/master/heatMixBounderies/result/result.gif?raw=true" alt="result heat eq wirh mix boundaries"/>
+  <img src="https://github.com/planelles20/fenics-examples/blob/master/heatMixBoundaries/result/result.gif?raw=true" alt="result heat eq wirh mix boundaries"/>
 </p>
