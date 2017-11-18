@@ -3,7 +3,7 @@
 ## Original problem
 
 <p align="center">
-  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heatMixBounderies/heatMixOriginalForm.gif?raw=true" alt="original heat equation"/>
+  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heatMixBoundaries/heatMixOriginalForm.gif?raw=true" alt="original heat equation"/>
 </p>
 
 <p align="center">
@@ -34,12 +34,12 @@ Where:
 Where:
 
 <p align="center">
-  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heatMixBounderies/heatMixVariationalForm.gif?raw=true" alt="variational Terms"/>
+  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heatMixBoundaries/heatMixVariationalForm.gif?raw=true" alt="variational Terms"/>
 </p>
 
 Alternative form:
 <p align="center">
-  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heatMixBounderies/alternativeVariationalForm.gif?raw=true" alt="alternative Variational"/>
+  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heatMixBoundaries/alternativeVariationalForm.gif?raw=true" alt="alternative Variational"/>
 </p>
 
 
