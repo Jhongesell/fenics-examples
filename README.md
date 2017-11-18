@@ -6,7 +6,7 @@ To represent the results use paraview.
 
 ## Some results
 
-### Original problem
+### Heat equation with Dirichlet boundaries 
 
 <p align="center">
   <img src="https://github.com/planelles20/fenics-examples/blob/master/heatDirichlet/result/result.gif?raw=true" alt="result heat eq"/>
