@@ -100,5 +100,9 @@ ENV/
 # mypy
 .mypy_cache/
 
-#pdf
+# pdf
 *.pdf
+
+# vtu
+*.pvd
+*.vtu
