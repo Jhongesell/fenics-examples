@@ -17,7 +17,7 @@ Where:
 </p>
 
 <p align="center">
-  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heatNaturalNeumann/NaturalNeumannBoundaries.gif?raw=true" alt="mix boundaries"/>
+  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heatMixBoundaries/heatMixBoundaryCondition.gif?raw=true" alt="mix boundaries"/>
 </p>
 
 <p align="center">
