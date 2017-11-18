@@ -15,3 +15,8 @@ To represent the results use [paraview](https://www.paraview.org/).
 <p align="center">
   <img src="https://github.com/planelles20/fenics-examples/blob/master/heatDirichlet2/result/result.gif?raw=true" alt="result heat eq"/>
 </p>
+
+### Heat equation with Dirichlet and natural Neumann boundaries
+<p align="center">
+  <img src="https://github.com/planelles20/fenics-examples/blob/master/heatNaturalNeumann/result/result.gif?raw=true" alt="result heat eq"/>
+</p>

@@ -1,4 +1,4 @@
-# Heat equation with Dirichlet boundaries
+# Heat equation with Dirichlet boundaries 2
 
 ## Original problem
 
