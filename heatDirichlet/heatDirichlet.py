@@ -41,7 +41,7 @@ F = u*v*dx + dt*k*dot(grad(u), grad(v))*dx - (u_n + dt*f)*v*dx
 a, L = lhs(F), rhs(F)
 
 # Create VTK file for saving solution
-vtkfile = File("result/heatDirichlet/solution.pvd")
+vtkfile = File("result/solution.pvd")
 
 # Time-stepping
 u = Function(V)
