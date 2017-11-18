@@ -3,55 +3,55 @@
 ## Original problem
 
 <p align="center">
-  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heat/heatEq.gif?raw=true" alt="original heat equation"/>
+  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heatDirichlet/heatEq.gif?raw=true" alt="original heat equation"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heat/domain.gif?raw=true" alt="original heat equation"/>
+  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heatDirichlet/domain.gif?raw=true" alt="original heat equation"/>
 </p>
 
 Where:
 
 <p align="center">
-  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heat/data.gif?raw=true" alt="constant data"/>
+  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heatDirichlet/data.gif?raw=true" alt="constant data"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heat/dirichletBoundaries.gif?raw=true" alt="Dirichlet boundaries"/>
+  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heatDirichlet/dirichletBoundaries.gif?raw=true" alt="Dirichlet boundaries"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heat/initCondition.gif?raw=true" alt="init condition"/>
+  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heatDirichlet/initCondition.gif?raw=true" alt="init condition"/>
 </p>
 
 
 ## Weak form or variational form
 
 <p align="center">
-  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heat/variationalForm.gif?raw=true" alt="variational Form"/>
+  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heatDirichlet/variationalForm.gif?raw=true" alt="variational Form"/>
 </p>
 
 Where:
 
 <p align="center">
-  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heat/variationalTerms.gif?raw=true" alt="variational Terms"/>
+  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heatDirichlet/variationalTerms.gif?raw=true" alt="variational Terms"/>
 </p>
 
 Alternative form:
 <p align="center">
-  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heat/alternativaVariational.gif?raw=true" alt="alternativa Variational"/>
+  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heatDirichlet/alternativaVariational.gif?raw=true" alt="alternativa Variational"/>
 </p>
 
 Where:
 
 <p align="center">
-  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heat/alternativaVariationalF.gif?raw=true" alt="F equation"/>
+  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heatDirichlet/alternativaVariationalF.gif?raw=true" alt="F equation"/>
 </p>
 
 Init Conditions:
 
 <p align="center">
-  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heat/initConditionVariational.gif?raw=true" alt="init Condition Variational"/>
+  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heatDirichlet/initConditionVariational.gif?raw=true" alt="init Condition Variational"/>
 </p>
 
 
