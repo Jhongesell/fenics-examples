@@ -13,7 +13,7 @@
 Where:
 
 <p align="center">
-  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heatDirichlet/data.gif?raw=true" alt="constant data"/>
+  <img src="https://github.com/planelles20/fenics-examples/blob/master/img/heatMixBoundaries/constants.gif?raw=true" alt="constant data"/>
 </p>
 
 <p align="center">
